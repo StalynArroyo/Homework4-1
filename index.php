@@ -51,8 +51,9 @@ $statement3->closeCursor();
 <body>
 <header><h1>Product Manager</h1></header>
 <main>
+    <h3> Spring 2017 IS218 Midterm </h3>
     <h1>Product List</h1>
-
+    
     <aside>
         <!-- display a list of categories -->
         <h2>Categories</h2>
